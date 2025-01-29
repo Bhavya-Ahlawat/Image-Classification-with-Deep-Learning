@@ -20,5 +20,4 @@ python runprogram.py
 - `imageclassification.py`: Contains code for loading the CIFAR-10 dataset and training the model.
 - `requirements.txt`: Lists the required Python libraries for the project.
 
-## License
-This project is licensed under the MIT License.
+
