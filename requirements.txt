@@ -1,0 +1,9 @@
+# -m venv venv
+
+# .\venv\Scripts\activate  
+
+tensorflow
+keras
+numpy
+scipy
+pillow
